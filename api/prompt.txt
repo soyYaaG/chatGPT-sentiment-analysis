@@ -1,0 +1,10 @@
+Hallar todo el sentimiendo, tópico y criterio de la siguiente tabla separada por "|" el campo a revisar es COMENTARIO
+
+ID|COMENTARIO
+{0}
+
+Los sentimientos posibles son: Negativo, Nuetro y Positivo.
+Los tópicos posibles son: Calidad de señal, Facturación, Servicio wifi, Servicio técnico, Cobertura de señal, Precio/Tarifas, Competencia, Calidad de servicio al cliente y Otros.
+Los criterios deben de estar relacionados con el tópico y comentario. Máximo de dos criterios por comentario y tópico.
+
+Entregar solo el resultado en una cadena de texto separada por "|" con el ID, COMENTARIO, SENTIMIENTO, TOPICO y CRITERIO calculado. Por cada comentario dejar un salto de linea.
